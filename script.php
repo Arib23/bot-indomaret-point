@@ -1,6 +1,5 @@
 <?php
-/* FUNGSI INI BIARKAN SAJA
-SUPAYA TIDAK EROR BOSSKU
+/* 
 
 */
 
